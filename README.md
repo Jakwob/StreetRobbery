@@ -15,8 +15,9 @@ Wanted stars for robbing
 
 How To Customize:
 
-#define MAX_ROBBERY_AMOUNT 100000 (you can change to max amount)
-#define MIN_ROBBERY_AMOUNT 100 (you can change to min amount)
+Find:
+MAX_ROBBERY_AMOUNT 100000 (you can change to max amount)
+MIN_ROBBERY_AMOUNT 100 (you can change to min amount)
 
 Requirements:
 zcmd.inc
